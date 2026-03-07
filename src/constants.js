@@ -30,14 +30,14 @@ export const SkillsInfo = [
       { name: "REST API", logo: javascriptLogo }, // frontend API integration
     ],
   },
-  {
-    title: "Programming & CS Fundamentals",
-    skills: [
-      { name: "Java (Core)", logo: javaLogo },
-      { name: "OOPs Concepts", logo: javaLogo },
-      { name: "DSA (Basics)", logo: javaLogo },
-    ],
-  },
+  // {
+  //   title: "Programming & CS Fundamentals",
+  //   skills: [
+  //     { name: "Java (Core)", logo: javaLogo },
+  //     { name: "OOPs Concepts", logo: javaLogo },
+  //     { name: "DSA (Basics)", logo: javaLogo },
+  //   ],
+  // },
   {
     title: "Tools",
     skills: [
